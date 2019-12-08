@@ -1,3 +1,6 @@
+
+
+
 source_array = [2, 4, 6, 8]
 def map_to_negativize(source_array)
   negativize = []
